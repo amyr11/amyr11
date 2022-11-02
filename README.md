@@ -2,11 +2,9 @@
 ```zsh
 @amyr11 ~ % whoami
 ```
-```
 - 👋 Hi, I’m Amyr
 - 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning Web Development
-```
 
 ```zsh
 @amyr11 ~ % techstack
