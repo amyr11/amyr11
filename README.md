@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amyr
+- 👀 I’m interested in Machine Learning and Web Development
+- 🌱 I’m currently learning Web Development
