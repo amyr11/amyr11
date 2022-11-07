@@ -4,7 +4,7 @@
 ```
 - 👋 Hi, I’m Amyr
 - 👀 I’m interested in Data Science, Software Engineering, and Filmmaking as well!
-- 🌱 I’m currently learning Machine Learning & Web Development
+- 🌱 I’m currently studying Machine Learning & Web Development
 
 ```zsh
 @amyr11 ~ % techstack
