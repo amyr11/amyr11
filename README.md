@@ -21,12 +21,6 @@
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-```zsh
-@amyr11 ~ % currently-studying
-```
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-
 # Connect with me!
 [Linkedin](https://www.linkedin.com/in/amyr-edmar-francisco-a5b425224/) | 
 [Facebook](https://www.facebook.com/amyredmar/) | 
