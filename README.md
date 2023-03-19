@@ -25,3 +25,6 @@
 [Linkedin](https://www.linkedin.com/in/amyr-edmar-francisco-a5b425224/) | 
 [Facebook](https://www.facebook.com/amyredmar/) | 
 [amyrfrancisco11@gmail.com](mailto:amyrfrancisco11@gmail.com)
+
+# Stats
+![](https://gh-stats-card.cyclic.app/api/amyr11)
