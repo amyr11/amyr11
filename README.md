@@ -7,6 +7,11 @@
 - 🌱 I’m currently studying Machine Learning & Web Development
 
 ```zsh
+@amyr11 ~ % portfolio
+```
+[Go to my portfolio](https://www.notion.so/Hi-I-m-Amyr-6a4effecde684d65bef5d02ee26c3ef3?pvs=4)
+
+```zsh
 @amyr11 ~ % techstack
 ```
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
