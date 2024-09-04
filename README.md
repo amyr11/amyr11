@@ -25,6 +25,7 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/laravel-f22e2e?style=for-the-badge&logo=laravel&logoColor=white)
 
 # Connect with me!
 [Linkedin](https://www.linkedin.com/in/amyr-edmar-francisco-a5b425224/) | 
