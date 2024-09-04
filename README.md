@@ -9,7 +9,7 @@
 ```zsh
 @amyr11 ~ % portfolio
 ```
-[Go to my portfolio](https://www.notion.so/Hi-I-m-Amyr-6a4effecde684d65bef5d02ee26c3ef3?pvs=4)
+[Go to my portfolio](https://amyredmar.notion.site/Hi-I-m-Amyr-6a4effecde684d65bef5d02ee26c3ef3)
 
 ```zsh
 @amyr11 ~ % techstack
