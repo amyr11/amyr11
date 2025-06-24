@@ -2,9 +2,9 @@
 ```zsh
 @amyr11 ~ % whoami
 ```
-- 👋 Hi, I’m Amyr
-- 👀 I’m interested in Data Science, Software Engineering, and Filmmaking as well!
-- 🌱 I’m currently studying Machine Learning & Web Development
+- 👋 Hi, I’m Amyr!
+- 👀 I’m interested in AI Engineering, Software Engineering, and Data Engineering!
+- 🌱 I’m currently studying Data Engineering and AI Engineering.
 
 ```zsh
 @amyr11 ~ % portfolio
